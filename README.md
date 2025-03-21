@@ -6,3 +6,4 @@ A collection of my solved LeetCode problems categorized by difficulty.
 - **[Easy](./easy)**
 - **[Medium](./medium)**
 - **[Hard](./hard)**
+- **[Other](./other)**
